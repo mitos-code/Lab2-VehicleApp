@@ -61,3 +61,4 @@ public abstract class LandVehicle implements Vehicle {
     // Abstract method - each subclass prints its own specific details
     public abstract void displayInfo();
 }
+//Prepared by Amirhaziq
