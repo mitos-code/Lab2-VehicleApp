@@ -19,3 +19,4 @@ public interface Vehicle {
     // Decrease vehicle speed by the given amount
     void decelerate(double speed);
 }
+//Prepared by Amirhaziq
