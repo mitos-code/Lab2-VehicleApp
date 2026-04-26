@@ -28,3 +28,4 @@ public class Motorcycle extends LandVehicle {
         System.out.println("----------------------");
     }
 }
+//Prepared by Amirhaziq
